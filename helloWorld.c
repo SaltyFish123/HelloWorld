@@ -5,6 +5,6 @@ int main(void) {
 	for (i = 0; i < SIZE; i++) {
 		printf("Well this is the new change.\n");
 	}
-  printf("I am stupid.\n");
+  printf("I am a genius.\n");
   return 0;
 }
